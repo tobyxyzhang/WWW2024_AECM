@@ -43,18 +43,9 @@ Additionally, **Tenc-UnionAds** provides over 300 features, including user featu
 
 We have provided a lightweight example dataset under the "Dataset" directory for your convenience in quickly starting the training process. For the complete dataset, please refer to the link provided below.
 
-> https://drive.weixin.qq.com/s?k=AJEAIQdfAAo57eHKjr
+> It is expected to be made public after May 17, 2024
 
 ### 3. Cite
 
 Please cite our paper if you use our code or datasets in your publication.
-
-```
-@inproceedings{zhang2024adversarial,
-  title={Adversarial-Enhanced Causal Multi-Task Framework for Debiasing Post-Click Conversion Rate Estimation},
-  author={Zhang, Xinyue and Huang, Cong and Zheng, Kun and Su, Hongzu and Ji, Tianxu and Wang, Wei and Qi, Hongkai and Li, Jingjing},
-  booktitle={Proceedings of the ACM Web Conference 2024},
-  year={2024}
-}
-```
 

@@ -9,7 +9,7 @@ In real-world industrial scenarios, post-click conversion rate (CVR) prediction 
 
 
 
-### 2. DataSet
+### 2. Dataset
 
 Tencent Advertising is an advertising platform under Tencent Corporation, providing advertising placement and marketing solutions for advertisers and brands. With a vast user base and diverse product ecosystem, Tencent offers a wide range of advertising display and promotion channels to advertisers.
 
